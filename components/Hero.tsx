@@ -21,7 +21,11 @@ const Hero: React.FC = () => {
         </h1>
 
         <p className="max-w-2xl mx-auto text-xl text-gray-400 mb-12 font-medium leading-relaxed">
+<<<<<<< HEAD
           Grogen blah is a premier creative crew that accelerates visionary brands through elite Branding, Marketing, and Visual Technology.
+=======
+          Grogen is a premier creative crew that accelerates visionary brands through elite Branding, Marketing, and Visual Technology.
+>>>>>>> f415c79871292ac527531b1602540ec84cd29c6a
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
