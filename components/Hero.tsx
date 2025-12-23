@@ -12,16 +12,16 @@ const Hero: React.FC = () => {
 
       <div className="container mx-auto px-6 relative z-10 text-center">
         <div className="inline-block mb-6 px-4 py-1 border border-[#00D084] rounded-full bg-[#00D084]/10 text-[#00D084] font-bold text-xs tracking-widest uppercase">
-          #GenerationGrowth
+          #GerationGrowth
         </div>
         
         <h1 className="text-6xl md:text-[100px] font-extrabold leading-[0.9] tracking-tighter mb-8 uppercase">
-          basha We Architect <br />
+          We Architect <br />
           <span className="font-serif italic font-normal text-[#00D084]">Digital Dominance</span>
         </h1>
 
         <p className="max-w-2xl mx-auto text-xl text-gray-400 mb-12 font-medium leading-relaxed">
-          Grogen blah is a premier creative crew that accelerates visionary brands through elite Branding, Marketing, and Visual Technology.
+          Grogen is a premier creative crew that accelerates visionary brands through elite Branding, Marketing, and Visual Technology.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
